@@ -1,4 +1,4 @@
-# restart-frame-demo
+# Chrome "Restart Frame" demo
 
 The app in index.html has a bug in it. You can use Restart Frame to locate the bug.
 
